@@ -6,7 +6,7 @@ on: push
 
 # List of jobs
 jobs:
-  test:
+  build-storybook:
     # Operating System
     runs-on: ubuntu-latest
     # Job steps
